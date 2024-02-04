@@ -83,3 +83,10 @@ git checkout master
 ```sh
 git diff
 ```
+8. Отображение всех веток
+
+```sh
+git branch
+```
+
+9. 
