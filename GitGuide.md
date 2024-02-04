@@ -47,7 +47,7 @@ git status
 При создании коммита в репозитории можно добавить однострочное сообщение с помощью параметра commit с флагом -m. Само сообщение вводится непосредственно после флага, в кавычках.
 
 ```sh
-git commit -m "Your short summary about the commit"
+git commit -m "Your short summary about the commit_text"
 ```
 ***5. Просмотр истории коммитов с изменениями.***
 
